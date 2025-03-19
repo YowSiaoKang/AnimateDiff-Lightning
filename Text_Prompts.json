@@ -1,0 +1,169 @@
+{
+  "Themes": [
+    {
+      "Name": "Urban Exploration",
+      "Prompts": [
+        "A cyclist weaving through busy city streets at dusk.",
+        "Graffiti artists creating vibrant murals on abandoned buildings.",
+        "Skyscrapers reflecting the sunset over a bustling metropolis.",
+        "A street performer entertaining a crowd in a crowded plaza.",
+        "Neon signs illuminating a rainy night in downtown.",
+        "Crowds navigating a busy subway station during rush hour.",
+        "A panoramic view of the city skyline from a rooftop terrace.",
+        "Nightlife scenes with people enjoying outdoor cafes and bars.",
+        "A time-lapse of traffic flowing through an iconic city intersection.",
+        "Architectural details of historic buildings juxtaposed with modern structures."
+      ]
+    },
+    {
+      "Name": "Historical Moments",
+      "Prompts": [
+        "A reenactment of the signing of the Declaration of Independence.",
+        "Soldiers marching during a pivotal battle in World War II.",
+        "People celebrating the fall of the Berlin Wall.",
+        "An ancient marketplace bustling with traders and shoppers.",
+        "The construction of the Great Pyramids under the desert sun.",
+        "A medieval festival with jousting and traditional dances.",
+        "Explorers setting sail on a historic voyage across the ocean.",
+        "The first moon landing with astronauts walking on the surface.",
+        "A Victorian-era street scene with horse-drawn carriages.",
+        "Inventors showcasing early technological breakthroughs in a workshop."
+      ]
+    },
+    {
+      "Name": "Underwater Worlds",
+      "Prompts": [
+        "A coral reef teeming with colorful marine life.",
+        "Divers exploring a sunken shipwreck on the ocean floor.",
+        "A school of dolphins playing near the shore at sunrise.",
+        "Bioluminescent creatures illuminating the dark depths of the sea.",
+        "A majestic whale gliding through crystal-clear waters.",
+        "An underwater cave system with intricate rock formations.",
+        "Sea turtles navigating through a vibrant kelp forest.",
+        "A manta ray gracefully swimming above a sandy seabed.",
+        "Sharks patrolling the waters around a secluded island.",
+        "A peaceful lagoon with gentle waves lapping against the shore."
+      ]
+    },
+    {
+      "Name": "Mystical Realms",
+      "Prompts": [
+        "A hidden fairy village nestled within an ancient forest.",
+        "Dragons soaring above floating islands in the sky.",
+        "A sorcerer conjuring spells in a magical tower.",
+        "Enchanted waterfalls cascading into sparkling pools.",
+        "Elves celebrating under the light of a full moon.",
+        "A unicorn wandering through a meadow of blooming flowers.",
+        "Mystic runes glowing on the walls of an underground temple.",
+        "A portal opening to a parallel magical dimension.",
+        "Goblins crafting artifacts in a subterranean workshop.",
+        "A phoenix rising from the ashes amidst a fiery backdrop."
+      ]
+    },
+    {
+      "Name": "Future Cities",
+      "Prompts": [
+        "Flying cars navigating through towering skyscrapers.",
+        "Advanced robots interacting with humans in daily life.",
+        "Holographic advertisements lighting up urban landscapes.",
+        "Green rooftops and vertical gardens on futuristic buildings.",
+        "High-speed maglev trains connecting different districts.",
+        "Public spaces with interactive digital installations.",
+        "Autonomous drones delivering packages in a busy city.",
+        "Smart homes with automated systems responding to residents.",
+        "Energy-efficient infrastructure powered by renewable sources.",
+        "Citizens using augmented reality glasses for navigation and information."
+      ]
+    },
+    {
+      "Name": "Epic Journeys",
+      "Prompts": [
+        "An adventurer trekking through a vast desert at sunset.",
+        "A group of explorers crossing a snow-covered mountain range.",
+        "Sailors navigating rough seas during a powerful storm.",
+        "Hikers reaching the summit of a towering peak.",
+        "A caravan traveling through dense, uncharted jungles.",
+        "A lone traveler walking along a winding coastal path.",
+        "Cyclists racing across the countryside under a clear sky.",
+        "A road trip convoy driving through scenic landscapes.",
+        "Kayakers maneuvering through whitewater rapids.",
+        "A backpacker setting up camp in a remote wilderness area."
+      ]
+    },
+    {
+      "Name": "Cultural Celebrations",
+      "Prompts": [
+        "A vibrant Holi festival with people throwing colorful powders.",
+        "Traditional Japanese tea ceremony in a serene garden.",
+        "Carnival dancers performing elaborate costumes and choreography.",
+        "Lanterns floating on a river during a Mid-Autumn festival.",
+        "A lively Oktoberfest gathering with music and dancing.",
+        "Diwali lights illuminating homes and streets at night.",
+        "A mariachi band playing in a festive Mexican plaza.",
+        "Sakura blossoms framing a peaceful Hanami picnic.",
+        "A Maasai tribe performing traditional dances in the savannah.",
+        "Firework displays celebrating Lunar New Year festivities."
+      ]
+    },
+    {
+      "Name": "Abstract Concepts",
+      "Prompts": [
+        "Visual representations of time flowing like a river.",
+        "The concept of dreams depicted with surreal landscapes.",
+        "Emotions illustrated as vibrant color explosions.",
+        "The idea of freedom shown through soaring birds in the sky.",
+        "Chaos visualized with swirling patterns and dynamic movements.",
+        "Harmony portrayed with intersecting geometric shapes.",
+        "Transformation symbolized by evolving fractal designs.",
+        "Infinity represented by endless looping structures.",
+        "Connectivity shown with interwoven light trails.",
+        "Balance depicted through symmetrical compositions and dualities."
+      ]
+    },
+    {
+      "Name": "Architectural Wonders",
+      "Prompts": [
+        "The intricate details of Gothic cathedrals illuminated at night.",
+        "Modern skyscrapers with glass facades reflecting the sky.",
+        "Ancient Roman aqueducts spanning across a valley.",
+        "Futuristic bridge designs connecting two urban districts.",
+        "Traditional Japanese pagodas surrounded by cherry blossoms.",
+        "Aerial views of winding canals in a historic European city.",
+        "Sustainable eco-buildings with green technology features.",
+        "The grandeur of ancient Egyptian pyramids under the desert sun.",
+        "Colorful Moroccan riads with patterned tile work.",
+        "Minimalist Scandinavian homes nestled in snowy landscapes."
+      ]
+    },
+    {
+      "Name": "Wildlife Encounters",
+      "Prompts": [
+        "A pride of lions lounging in the African savannah.",
+        "Penguins waddling across icy terrains in Antarctica.",
+        "Elephants bathing in a river during the golden hour.",
+        "Monkeys swinging through dense tropical rainforests.",
+        "Polar bears traversing the Arctic icebergs.",
+        "Colorful parrots perched on vibrant rainforest branches.",
+        "Giraffes reaching for leaves atop tall acacias.",
+        "Orcas breaching the surface of a deep blue ocean.",
+        "Cheetahs sprinting across the grasslands in pursuit of prey.",
+        "A family of wolves howling under the full moon."
+      ]
+    },
+    {
+      "Name": "Magical Seasons",
+      "Prompts": [
+        "A winter wonderland with snow-covered trees and twinkling lights.",
+        "Spring blossoms bursting in a vibrant floral meadow.",
+        "Summer beaches with golden sands and clear turquoise waters.",
+        "Autumn forests ablaze with hues of orange and red.",
+        "A rainy season scene with umbrellas and puddles reflecting lights.",
+        "A blooming cherry blossom season in a tranquil park.",
+        "A crisp autumn morning with leaves gently falling from trees.",
+        "A summer night sky filled with stars and a glowing moon.",
+        "A serene spring morning with dew on fresh greenery.",
+        "A chilly winter evening with a cozy fireside setting."
+      ]
+    }
+  ]
+}
